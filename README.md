@@ -39,4 +39,4 @@ For detailed changelog, check [Releases](https://github.com/lukehaas/css-loaders
 
 [MIT License](https://github.com/lukehaas/css-loaders/blob/step2/LICENSE)
 
-Browser testing via [![lambda test]((https://raw.githubusercontent.com/lukehaas/css-loaders/step2/images/logo.svg)](https://www.lambdatest.com/)
+Browser testing via [![lambda test](https://raw.githubusercontent.com/lukehaas/css-loaders/step2/images/logo.svg)](https://www.lambdatest.com/)
